@@ -1,16 +1,35 @@
 {
- "events": [
-        {
-          "id": 123,
-          "category": "bien-etre animal",
-          "title": "journee d/ adoptation des chats",
-          "description": "trouvet votre nouvel ami felin",
-          "location": "bizerte",
-          "date": "28 januray 2022",
-          "time":"12:00",
-          "petsAllowed": true,
-          "prganizer": "foulen ben foulen",
-        }
-  ]
+ "events":[
+  {
+   "id": 123,
+   "category": "animal welfare",
+   "title": "cat adoption day",
+   "description": "find your new friend at this event",
+   "location": "meow town",
+   "date": "january 28, 2022",
+   "time": "12:00",
+   "organizer": "kat laydee"
+  },
+  {
+   "id": 123,
+   "category": "animal welfare",
+   "title": "cat adoption day",
+   "description": "find your new friend at this event",
+   "location": "meow town",
+   "date": "january 28, 2022",
+   "time": "12:00",
+   "organizer": "kat laydee"
+  },
+  {
+   "id": 123,
+   "category": "animal welfare",
+   "title": "cat adoption day",
+   "description": "find your new friend at this event",
+   "location": "meow town",
+   "date": "january 28, 2022",
+   "time": "12:00",
+   "organizer": "kat laydee"
+  }
+ ]
 }
     
