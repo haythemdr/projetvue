@@ -9,7 +9,7 @@
    "date": "january 28, 2022",
    "time": "12:00",
    "organizer": "kat laydee",
-   "image": require("../assets/5.webp"),
+   "image": "../assets/5.webp"
   },
   {
    "id": 123,
@@ -20,7 +20,7 @@
    "date": "january 28, 2022",
    "time": "12:00",
    "organizer": "kat laydee",
-   "image": require("../assets/5.webp"),
+   "image": "../assets/5.webp")
   },
   {
    "id": 123,
@@ -31,7 +31,7 @@
    "date": "january 28, 2022",
    "time": "12:00",
    "organizer": "kat laydee",
-   "image": require("../assets/5.webp"),
+   "image": "../assets/5.webp"
   }
  ]
 }
