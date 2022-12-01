@@ -9,11 +9,7 @@
    "date": "january 28, 2022",
    "time": "12:00",
    "organizer": "kat laydee",
-   "image":[
-    {
-     "location": "../assets/5.5.png",
-    }
-   ]
+   "@image": "https://img.freepik.com/photos-premium/public-festif-au-stade-lors-match_207634-4093.jpg?w=1380"
   },
   {
    "id": 123,
@@ -24,11 +20,7 @@
    "date": "january 28, 2022",
    "time": "12:00",
    "organizer": "kat laydee",
-    "image":[
-    {
-     "location": "../assets/5.5.png",
-    }
-   ]
+   "@image": "https://img.freepik.com/photos-premium/public-festif-au-stade-lors-match_207634-4093.jpg?w=1380"
   },
   {
    "id": 333,
@@ -39,11 +31,7 @@
    "date": "january 28, 2022",
    "time": "12:00",
    "organizer": "kat laydee",
-    "image":[
-    {
-     "location": "../assets/5.5.png",
-    }
-   ]
+   "@image": "https://img.freepik.com/photos-premium/public-festif-au-stade-lors-match_207634-4093.jpg?w=1380"
   }
  ]
 }
