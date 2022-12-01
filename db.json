@@ -9,7 +9,11 @@
    "date": "january 28, 2022",
    "time": "12:00",
    "organizer": "kat laydee",
-   "image": "../assets/5.webp"
+   "image":[
+    {
+     "location": "../assets/5.5.png",
+    }
+   ]
   },
   {
    "id": 123,
@@ -20,7 +24,11 @@
    "date": "january 28, 2022",
    "time": "12:00",
    "organizer": "kat laydee",
-   "image": "../assets/5.webp"
+    "image":[
+    {
+     "location": "../assets/5.5.png",
+    }
+   ]
   },
   {
    "id": 333,
@@ -31,7 +39,11 @@
    "date": "january 28, 2022",
    "time": "12:00",
    "organizer": "kat laydee",
-   "image": "../assets/5.webp"
+    "image":[
+    {
+     "location": "../assets/5.5.png",
+    }
+   ]
   }
  ]
 }
