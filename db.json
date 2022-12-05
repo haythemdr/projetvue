@@ -60,5 +60,31 @@
           "description": "the best first person shoot games is avaliable now",
         },
       ],
+ "adventures": [
+        {
+          "id": 4,
+          "name": "uncharted 4",
+          "sold": true,
+          "price": 10.2,
+          "image": "../assets/uncharted.jpg",
+          "description": "the best first person shoot games is avaliable now",
+        },
+        {
+         "id": 5,
+          "name": "tomb raider",
+          "sold": true,
+          "price": 10.2,
+          "image": "../assets/tomb.jpg",
+          "description": "the best first person shoot games is avaliable now",
+        },
+        {
+          "id": 6,
+          "name": "assasain creed",
+          "sold": true,
+          "price": 10.2,
+          "image": "../assets/assasain.jpg",
+          "description": "the best first person shoot games is avaliable now",
+        },
+      ],
 }
     
