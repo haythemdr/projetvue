@@ -34,58 +34,5 @@
    "image": "https://img.freepik.com/photos-premium/public-festif-au-stade-lors-match_207634-4093.jpg?w=1380"
   }
  ]
- "herrors": [
-        {
-          "id": 4,
-          "name": "outlast II",
-          "sold": true,
-          "price": 10.2,
-          "image": "../assets/R.jpg",
-          "description": "the best first person shoot games is avaliable now",
-        },
-        {
-          "id": 5,
-          "name": "Resident Evil",
-          "sold": true,
-          "price": 10.2,
-          "image": "../assets/R2.jpg",
-          "description": "the best first person shoot games is avaliable now",
-        },
-        {
-         " id": 6,
-          "name": "Little Nightmere",
-          "sold": true,
-          "price": 10.2,
-          "image": "../assets/R3.jpg",
-          "description": "the best first person shoot games is avaliable now",
-        },
-      ],
- "adventures": [
-        {
-          "id": 4,
-          "name": "uncharted 4",
-          "sold": true,
-          "price": 10.2,
-          "image": "../assets/uncharted.jpg",
-          "description": "the best first person shoot games is avaliable now",
-        },
-        {
-         "id": 5,
-          "name": "tomb raider",
-          "sold": true,
-          "price": 10.2,
-          "image": "../assets/tomb.jpg",
-          "description": "the best first person shoot games is avaliable now",
-        },
-        {
-          "id": 6,
-          "name": "assasain creed",
-          "sold": true,
-          "price": 10.2,
-          "image": "../assets/assasain.jpg",
-          "description": "the best first person shoot games is avaliable now",
-        },
-      ],
-
 }
     
