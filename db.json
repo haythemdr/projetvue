@@ -86,31 +86,6 @@
           "description": "the best first person shoot games is avaliable now",
         },
       ],
-"actions": [
-        {
-          "id": 1,
-          "name": "call of duty",
-          "sold": true,
-          "price": 10.2,
-          "image": "../assets/wp4806071-call-of-duty-mobile-4k-wallpapers.jpg",
-          "description": "the best first person shoot games is avaliable now",
-        },
-        {
-          "id": 2,
-          "name": "battlefield",
-          "sold": false,
-          "price": 10.2,
-          "image": "../assets/battlefield-game-4k-2048x2048.jpg",
-          "description": "the best first person shoot games is avaliable now",
-        },
-        {
-          "id": 3,
-          "name": "God of war",
-          "sold": false,
-          "price": 50,
-          "image": "../assets/14290590.webp",
-          "description": "the best first person shoot games is avaliable now",
-        },
-      ],
+
 }
     
