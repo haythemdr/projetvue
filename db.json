@@ -99,7 +99,7 @@
           "id": 2,
           "name": "battlefield",
           "sold": false,
-          "price": 0,
+          "price": 20,
           "image": "../assets/battlefield-game-4k-2048x2048.jpg",
           "description": "the best first person shoot games is avaliable now",
         },
